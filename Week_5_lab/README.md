@@ -1,0 +1,1 @@
+This week we did flexbox in css for responsive design.
